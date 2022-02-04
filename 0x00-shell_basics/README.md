@@ -1,5 +1,5 @@
 > # Shell, Basics Project
-> > ## Origin 
+## Origin 
 Completed this project during **Full Stack Software Engineering** from **Holberton School** at **ALX School**.
 ## Objective 
 Learning basic commands in **Shell**.
@@ -9,7 +9,7 @@ Learning basic commands in **Shell**.
 ## Files
 | Filename | Function |
 | -------- | -------- |
-| ~~~~ | ~~~~ |
+| ` |  |
 | 0-current_working_directory | Prints the absolute path name of the current working directory |
 | 1-listit | Display the contents list of current directory |
 | 2-bring_me_home | Changes working directory to the user's home directory |
@@ -30,5 +30,5 @@ Learning basic commands in **Shell**.
 | 102-tree | Created directories in current directory |
 | 103-commas | Lists all files and directories separated by comma ',' |
 | school.mgc | A magic file that command *file* to detect *School* data files |
-| ~~~~ | ~~~~ |
+| ` |  |
 
