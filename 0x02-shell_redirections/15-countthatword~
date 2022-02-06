@@ -1,2 +1,0 @@
-#!/bin/bash
-grep bin /etc/password | wc -1
