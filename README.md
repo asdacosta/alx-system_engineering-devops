@@ -10,3 +10,5 @@ Completed this projects during **Full Stack Software Engineering** from **Holber
 | ------- | --------- |
 | `0x00-shell_basics` | Learning basic commands in **Shell** |
 | `0x01-shell_permissions` | Learning permission commands in **Shell** |
+| `0x02-shell_redirections` | Learning how to use standard input and output commands, and filters in **Shell** |
+| `0x03-shell_variables_expansions` | Learning local, global and reserved variables, alias and help commands, and special parameters in **Shell** |
