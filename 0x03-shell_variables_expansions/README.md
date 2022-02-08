@@ -2,7 +2,7 @@
  ## Origin
  Completed this project during **Full Stack Software Engineering** from **Holberton School** at **ALX School**
  ## Objective
- Learning initialization files, local, global and reserved variables, and special parameters in **Shell**
+ Learning initialization files, local, global and reserved variables, alias and help commands, and special parameters in **Shell**
  ## Tested on 
  * Ubuntu
  * Git Bash
